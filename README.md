@@ -63,12 +63,5 @@ Enter these commands on cmd to install all required dependencies
 	python TextWiz.py
 
 
-## Got a question?
-If you have any questions please contact me on my <a href = "https://www.linkedin.com/in/asad-amir-9a1862171/">Linkedin profile</a>. 
-If you have any suggestions please send me a message or make a pull request.
-
-## How to cite 
-Asad Amir (2020, May 30). TextWiz (Version 1.0.0). 
-
 ## Website Link
 https://mfarmalkhan.github.io/TextWiz_Website/
